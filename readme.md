@@ -8,3 +8,4 @@
 
 
 [![PHP Version](https://img.shields.io/badge/php-5.3%2B-blue.svg?style=flat-square)](http://www.php.net/)
+[![Packagist](https://img.shields.io/badge/packagist-reilag%2Fkuna--api--php--simple-orange.svg?style=flat-square)](https://packagist.org/packages/reilag/kuna-api-php-simple)
